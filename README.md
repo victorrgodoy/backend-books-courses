@@ -1,18 +1,28 @@
-# Backend Roadmap
+# Backend Courses and Books
 
-Guide for backend developers. It contains books, notes and tutorials organized by topics.
+Books and Courses about backend topics.
 
-## Config
+## Languages
 
-- `books/`: PDF books related to different topics.
-- `notes/`: My personal notes on each topic.
-- `projects/`: Practical projects.
+### Java
 
-## Topics
+- [Java Orientação Objetos - ***Apostila Alura***](books/alura_apostila_java_orientacao_objetos.pdf)
+- [Curso Java Programming 1 - ***University of Helsinki's***](https://java-programming.mooc.fi)
+- [Curso Maratona Java - ***Canal DevDojo***](https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
 
-- [Internet](./books/internet/)
-- [Learn a Language](./books/internet/)
-- [Version Control Systems](./books/internet/)
-- [Repo Hosting Services](./books/java/)
-- [Relational Databases](./books/mysql/)
+### Python
 
+- [Livro Introdução à Programação em Python - ***Livro Nylo Ney Coutinho Menezes***](books/introducao_a_programacao_com_python.pdf)
+- [Curso Python Para Zumbi - ***Canal Python para Zumbis***](https://www.youtube.com/watch?v=YO58tXerKDc&list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
+
+## Version Control Systems
+
+### Git and Github
+
+- [Curso Git and GitHub - ***Canal Tiago Matos***](https://www.youtube.com/watch?v=2c7yWlpWDJM&list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
+
+## Relational Databases
+
+### MySQL
+
+- [MySQL Comece com o principal banco de dados open source do mercado - ***Livro Vinicius Carvalho***](./notes/mysql/mysql-notes.md)
