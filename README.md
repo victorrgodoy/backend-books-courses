@@ -16,7 +16,7 @@ Books and Courses about backend topics.
 - [Curso Python Para Zumbi - ***Canal Python para Zumbis***](https://www.youtube.com/watch?v=YO58tXerKDc&list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
 
 ## Version Control Systems
-
+ 
 ### Git and Github
 
 - [Curso Git and GitHub - ***Canal Tiago Matos***](https://www.youtube.com/watch?v=2c7yWlpWDJM&list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
@@ -26,3 +26,5 @@ Books and Courses about backend topics.
 ### MySQL
 
 - [MySQL Comece com o principal banco de dados open source do mercado - ***Livro Vinicius Carvalho***](./notes/mysql/mysql-notes.md)
+- [Curso de SQL com MySQL - ***Canal Otavio Miranda***](
+https://www.youtube.com/watch?v=lHYV_H1526Q&list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk&index=1)
