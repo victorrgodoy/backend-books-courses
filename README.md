@@ -6,9 +6,11 @@ Books and Courses about backend topics.
 
 ### Java
 
-- [Java Orientação Objetos - ***Apostila Alura***](books/alura_apostila_java_orientacao_objetos.pdf)
-- [Curso Java Programming 1 - ***University of Helsinki's***](https://java-programming.mooc.fi)
-- [Curso Maratona Java - ***Canal DevDojo***](https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
+- [Java Orientação Objetos - **Apostila Alura**](books/alura_apostila_java_orientacao_objetos.pdf)
+- [Curso Java Programming 1 - **University of Helsinki's**](https://java-programming.mooc.fi)
+- [Curso Maratona Java - **Canal DevDojo**](https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) <span style="color:red">(não concluído)</span>
+- [Get Started with Java - **Blog Baeldung**](https://www.baeldung.com/get-started-with-java-series) <span style="color:red">(não concluído)</span>
+
 
 ### Python
 
